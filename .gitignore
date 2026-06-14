@@ -1,0 +1,27 @@
+# OS Files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Environment Files
+.env
+.env.*
+
+# Logs
+*.log
+
+# Temporary Files
+*.tmp
+*.temp
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Jupyter Checkpoints
+.ipynb_checkpoints/
+
+# ZIP Files
+*.zip
